@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bpq:home|Door43 (bpq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bpq|d43-bpq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bpq/archive/master.zip|d43-bpq.zip]]
+
+**Recent Changes**
+{{changes>ns = bpq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bpq|Ethnologue data]]
+
